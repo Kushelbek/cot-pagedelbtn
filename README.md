@@ -22,6 +22,8 @@ Demo page
 ---------
 
 No demo page. Just install and try to edit you page.
+![demo screenshot](http://macik.github.io/cot-pagedelbtn/images/demoscreen.png)
+
 
 Requirements
 ------------
