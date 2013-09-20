@@ -38,7 +38,7 @@ If you have own complicated theme try to change `page.edit.tpl` and/or resource 
 
 ### Comments
 
-Plugin works out from the box. For better results 
+Plugin works out from the box.  
 
 
 ### How extension works
