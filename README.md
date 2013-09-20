@@ -53,7 +53,7 @@ Install
 
 ### Comments
 
-To see this Extension in action - open «pagedelbtn» plugin page. 
+To see this Extension in action - open page edit form. 
 
 Licence
 -------
@@ -70,4 +70,4 @@ References
 ----------
 
 * [Cotonti.com](http://Cotonti.com/) -- Home of Cotonti CMF
-* [pagedelbtn on GitHub](https://github.com/macik/cot-pagedelbtn) -- pagedelbtn page on GitHub
+* [pagedelbtn on GitHub](https://github.com/macik/cot-pagedelbtn) -- latest version of `pagedelbtn` on GitHub
